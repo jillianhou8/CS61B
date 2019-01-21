@@ -1,0 +1,27 @@
+
+HW #5.
+
+Question D.
+
+1. x^2, it is the greatest degree in the polynomial.
+
+
+2.
+
+
+3.
+
+
+4.big theta(M+N) in the worst case.
+
+
+5.nlogn
+
+
+6.for logarithmic analysis the base does not affect runtime
+
+
+7.
+
+
+8.
