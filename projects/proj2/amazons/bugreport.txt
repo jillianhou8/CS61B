@@ -1,0 +1,10 @@
+Hello! I've been stuck on this bug this entire day...The issue is that when I run main and have one manual player and one auto player,
+the auto player always moves pieces of MY side. If auto is black, it moves white pieces, and if its white, it moves only black pieces.
+Also, when I play with two manuals, I am able to move pieces of both sides... I have checked that I switch the turn both in makeMove and undo
+in Board.java, and my isLegal should already be checking if the piece in whichever from square passed in is of the correct side (_turn).
+
+I'm not sure where else to find the error, perhaps in my findMove in AI? I would really appreciate any guidance on this! On both why the auto plays
+opposite to what it should, as well why manual players are not being restricted to only moving pieces of its own side. Not sure if these are
+related.
+
+Thank you so much in advance.

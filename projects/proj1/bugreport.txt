@@ -1,0 +1,13 @@
+So, I am able to correctly translate both trivial and trivial1, however when
+I run the autograder tests caroll1 and caroll2, the output is translated correctly
+up until the exact same place; it starts to translate incorrectly starting at
+the 16th character in the second line. I know the issue probably lies in either my
+logic for double stepping or the way I advance rotors and/or keep track of their
+current settings.
+
+I have tried debugging my program at various breakpoints (been stuck on this
+issue all day until now) but haven't had any luck...At this point I'm not sure
+what to check; I think the error is hard to see through the debugger because it
+may be conceptual?
+
+Thank you in advance!
